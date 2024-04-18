@@ -22,7 +22,7 @@ func main() {
 			Messages: []openai.ChatCompletionMessage{
 				{
 					Role:    openai.ChatMessageRoleUser,
-					Content: "Write me the Hello World in golang",
+					Content: "What is the capital of Thailand",
 				},
 			},
 		},
